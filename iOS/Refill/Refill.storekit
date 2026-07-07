@@ -1,0 +1,42 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Refill Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Annual out-of-pocket totals sorted by medication and pharmacy",
+              "displayName": "Refill Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.rxcost.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Refill Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
